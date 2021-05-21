@@ -1,0 +1,58 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "kfc restaurant",
+      "address": " Manipur",
+      "email": "kfc@gmail.com"
+    },
+    {
+      "name": "dominos restaurant",
+      "email": "dominos@gmail.com",
+      "address": "thangmeiband Manipur",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "ok restaurant",
+      "address": "MG avenue Manipur",
+      "email": "ok@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "chakhum restaurant",
+      "address": "sagolband Manipur",
+      "email": "chakhum@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "pizza restaurant",
+      "address": "delhi",
+      "email": "pizza@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Hotpot restaurant",
+      "address": "wangkhei",
+      "email": "Hotpot@gmail.com"
+    },
+    {
+      "name": "testing2",
+      "email": "testing2@gmail.com",
+      "address": "silicon valley",
+      "id": 7
+    },
+    {
+      "name": "test888",
+      "email": "test88@gmail.com",
+      "address": "test888999999999999999",
+      "id": 8
+    },
+    {
+      "name": "Nambol hotel",
+      "email": "hotel@gmail.com",
+      "address": "nambol wangjing",
+      "id": 9
+    }
+  ]
+}
